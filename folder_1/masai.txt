@@ -1,2 +1,4 @@
+<<<<<<< HEAD
+
 Hello Masai
 Git Session
